@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "489562438342",
+    "firebase_url": "https://mutkal-default-rtdb.firebaseio.com",
+    "project_id": "mutkal",
+    "storage_bucket": "mutkal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489562438342:android:bbd5bdf21500d740a7f5c7",
+        "android_client_info": {
+          "package_name": "com.example.fethcher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSnHBejSGd7jHeSwXH3kfKBaoI16esSOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489562438342:android:0316843f3b584864a7f5c7",
+        "android_client_info": {
+          "package_name": "com.example.untitled3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSnHBejSGd7jHeSwXH3kfKBaoI16esSOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
